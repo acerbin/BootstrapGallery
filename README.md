@@ -1,3 +1,5 @@
 # BootstrapGallery
 
-### https://gallery-bootstrap.surge.sh
+### https://acerbin.github.io/BootstrapGallery/
+
+<!--- ### https://gallery-bootstrap.surge.sh --->
